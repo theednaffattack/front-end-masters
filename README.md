@@ -1,0 +1,1 @@
+A nice landing spot for all my Front End Masters exercises
